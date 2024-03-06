@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../.github/assets/gethere-logo-700x160.png" alt="gethere logo" />
+  <img src="https://github.com/gethere-project/.github/blob/main/.github/assets/gethere-logo-700x160.png?raw=true" alt="gethere logo" />
 </p>
 
 # gethere.
